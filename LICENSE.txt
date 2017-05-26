@@ -1,0 +1,20 @@
+This license allows you to:
+
+* Install and use this map as part of the game Sven Co-op. Enjoy!
+* Modify, expand and use the scripts and map source for other Sven Co-op maps and map bundles, as long as you accept the following rules:
+** Give credit to me, Max 'Protector' Vollmer, and provide a link to this map bundle, or include this map bundle in your download;
+** Include the source files of your map(s) in your download;
+** Allow others to use your script(s) and map source(s) under the same license as this;
+** Use the following naming convention for towerdefense maps: sc_td_<yourmapname>.
+
+=== THIRD PARTY FILES AND LICENSES ===
+
+The following files are not part of the above license and may only be used according to their respective owners. If in doubt, contact the original author(s).
+
+Monitor noise textures ("+n~sc_td_noise" textures in sc_towerdefense2.wad) created with "Noise texture generator" by Andrew Ckor: https://github.com/andrewckor/Noise-texture-generator
+
+glove.spr based on Glove cursor by juanello (Release to Public Domain license): http://www.rw-designer.com/cursor-set/glove-cursors
+
+exit.spr, repair.spr, sell.spr, terminal.spr, warning.spr based on "Free Game Icons", "32x32 Free Design Icons", "24x24 Free Toolbar Icons" and "Free Violet Button Icons" by Aha-Soft (Creative Commons Attribution-Share Alike 3.0 License): http://www.aha-soft.com
+
+mecha.spr based on "Mecha Font" by Captain Falcon (Freeware license): http://www.fontspace.com/captain-falcon/mecha

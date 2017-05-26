@@ -1,0 +1,22 @@
+@PointClass base() studio() = worker : "Tower Builder" 
+[
+	targetname(target_source) : "Name"
+	display_name(string) : "Display Name"
+	model(studio) : "Model" : "models/construction.mdl"
+	start_money(integer) : "Start Money" : 10
+	tower0(string) : "Tower 1"
+	tower1(string) : "Tower 2"
+	tower2(string) : "Tower 3"
+	tower3(string) : "Tower 4"
+	tower4(string) : "Tower 5"
+	tower5(string) : "Tower 6"
+	computer_terminal(string) : "Computer Terminal"
+	cursor_sprite(sprite) : "Cursor (Sprite)"
+]
+
+@PointClass base() sprite() = critter_route : "Critter Route" 
+[
+	targetname(target_source) : "Name"
+	target(target_destination) : "Next route entity"
+	model(sprite) : "Spawn Effect Sprite"
+]
